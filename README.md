@@ -10,11 +10,13 @@ Physical Right Hand -> Augmented Keyboard: A beautifully designed Virtual Keyboa
 Pinch-to-Click Dynamics: Instead of hovering or awkward finger overlaps, this application utilizes the industry-trusted Thumb to Index Finger PINCH structure for executing Left Clicks and keyboard inputs.
 Hold-to-Drag Capability: Hold the pinch with your left hand to simulate dragging windows or highlighting text globally across your Mac.
 System-Wide Typing (pynput): The application types at the OS level! Leave it running in the background while you focus on Google Chrome or any text editor to type physically without touching a keyboard.
+
 Installation 🛠️
 Activate your virtual environment:
 source venv/bin/activate
 Install the necessary machine learning and system navigation dependencies:
 pip install -r requirements.txt
+
 How to Run & Use 💻
 Launch the application:
 python key.py
